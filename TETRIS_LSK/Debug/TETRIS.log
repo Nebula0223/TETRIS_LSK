@@ -1,0 +1,9 @@
+﻿  TETRIS.cpp
+c:\users\lenovo\desktop\tetris\tetris\tetris.cpp(1433): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\lenovo\desktop\tetris\tetris\tetris.cpp(672): warning C4715: “available_Shape2_rotate”: 不是所有的控件路径都返回值
+c:\users\lenovo\desktop\tetris\tetris\tetris.cpp(656): warning C4715: “available_Shape1_rotate”: 不是所有的控件路径都返回值
+c:\users\lenovo\desktop\tetris\tetris\tetris.cpp(704): warning C4715: “available_Shape5_rotate”: 不是所有的控件路径都返回值
+c:\users\lenovo\desktop\tetris\tetris\tetris.cpp(688): warning C4715: “available_Shape4_rotate”: 不是所有的控件路径都返回值
+c:\users\lenovo\desktop\tetris\tetris\tetris.cpp(720): warning C4715: “available_Shape6_rotate”: 不是所有的控件路径都返回值
+c:\users\lenovo\desktop\tetris\tetris\tetris.cpp(736): warning C4715: “available_Shape7_rotate”: 不是所有的控件路径都返回值
+  TETRIS.vcxproj -> C:\Users\lenovo\Desktop\TETRIS\Debug\TETRIS.exe
